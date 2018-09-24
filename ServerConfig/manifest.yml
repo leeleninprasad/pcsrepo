@@ -1,5 +1,5 @@
 ---
 applications:
-- name: my-app
+- name: CloudServer
   memory: 512M
   instances: 2
